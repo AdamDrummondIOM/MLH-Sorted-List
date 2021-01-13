@@ -1,0 +1,6 @@
+/Users/adam/Desktop/ListSorter/ListSorter/bin/Debug/ListSorter.exe
+/Users/adam/Desktop/ListSorter/ListSorter/bin/Debug/ListSorter.pdb
+/Users/adam/Desktop/ListSorter/ListSorter/obj/Debug/ListSorter.csprojAssemblyReference.cache
+/Users/adam/Desktop/ListSorter/ListSorter/obj/Debug/ListSorter.csproj.CoreCompileInputs.cache
+/Users/adam/Desktop/ListSorter/ListSorter/obj/Debug/ListSorter.exe
+/Users/adam/Desktop/ListSorter/ListSorter/obj/Debug/ListSorter.pdb

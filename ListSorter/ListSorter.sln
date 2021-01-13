@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListSorter", "ListSorter\ListSorter.csproj", "{ED22C202-47B5-4F75-84B8-A66611E071AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED22C202-47B5-4F75-84B8-A66611E071AE}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{ED22C202-47B5-4F75-84B8-A66611E071AE}.Debug|anycpu.Build.0 = Debug|anycpu
+		{ED22C202-47B5-4F75-84B8-A66611E071AE}.Release|anycpu.ActiveCfg = Release|anycpu
+		{ED22C202-47B5-4F75-84B8-A66611E071AE}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal
